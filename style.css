@@ -18,3 +18,14 @@ body {
 tr:nth-of-type(5) {background-color: darkgray;}
 
 tr:nth-of-type(6), tr:nth-of-type(7), tr:nth-of-type(8), tr:nth-of-type(9) {background-color:white;}
+
+img[alt="pichu"] {
+    width: 400px;
+height: 600px;
+padding: 10px;
+}
+
+button {
+    float: left;
+    margin-left: 100px;
+}
