@@ -9,7 +9,8 @@ body {
   }
 
   h1 {text-align: center;
-color: gray;}
+color: gray;
+}
 
 
   td, th { border: 1px solid black;
@@ -39,9 +40,11 @@ button {
     float: right;
     border: 2px solid black;
     width: 400px;
+    
     background-color: silver;
     margin-right: 20px;
     margin-top: 50px;
+
 }
 
 #rightcol h2 {
@@ -123,7 +126,13 @@ footer p {
     width: 100%;
    float: none;
    margin-top: 100px;
+   
 }
+img[alt="link running"] {
+    width: 100px;
+    height: 100px;
+}
+
 
 #left {
     
