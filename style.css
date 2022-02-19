@@ -29,3 +29,28 @@ button {
     float: left;
     margin-left: 100px;
 }
+
+
+#rightcol {
+    float: right;
+    border: 2px solid black;
+    width: 400px;
+    background-color: silver;
+    margin-right: 20px;
+    margin-top: 50px;
+}
+
+#rightcol h2 {
+    text-align: center;
+}
+
+p {
+    padding: 10px;
+}
+
+img[alt="link running"] {
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
