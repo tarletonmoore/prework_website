@@ -90,3 +90,38 @@ footer {
 footer p {
     margin-left: 10px;
 }
+
+@media only screen and (max-width: 650px) {
+
+    img[alt="pokeball banner"] {
+        width: 100%;
+    }
+
+    nav {
+        position: absolute; left: 35%; right: 65%;
+        border-radius: 16px 0 0 16px; 
+        margin-top: 50px;
+        
+        
+    }
+
+    li { 
+        display: block;
+        margin: auto;
+     } 
+
+
+#rightcol {
+    
+    width: 100%;
+   float: none;
+   margin-top: 100px;
+}
+
+#left {
+    
+    width: 100%;
+}
+
+
+}
