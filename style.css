@@ -28,6 +28,7 @@ padding: 10px;
 button {
     float: left;
     margin-left: 100px;
+    margin-bottom: 20px;
 }
 
 
@@ -53,4 +54,39 @@ img[alt="link running"] {
     height: 300px;
     margin-left: 50px;
     margin-bottom: 10px;
+}
+
+nav {
+    text-align: center;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+    background-color: silver;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+li a:hover {
+    background-color: white;
+}
+
+footer {
+    background-color: silver;
+    border: 2px solid black;
+    margin-top: 50px;
+}
+
+footer p {
+    margin-left: 10px;
 }
