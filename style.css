@@ -1,5 +1,6 @@
 body {
-    background: gray;
+    background-image: url("images/carbon_fibre.png");
+    
   }
 
   img[alt="pokeball banner"] {
@@ -7,7 +8,9 @@ body {
       height: 600px;
   }
 
-  h1 {text-align: center;}
+  h1 {text-align: center;
+color: gray;}
+
 
   td, th { border: 1px solid black;
     padding: 0.7em;
@@ -103,6 +106,10 @@ footer p {
         margin-top: 50px;
         
         
+    }
+
+    nav a {
+        color: gray;
     }
 
     li { 
